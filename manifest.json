@@ -1,6 +1,6 @@
 {
     "name": "Atharva",
-    "start_url": "/PWA",
+    "start_url": "/pwa",
     "display": "standalone",
     "icons": [
         {
